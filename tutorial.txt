@@ -1,1 +1,2 @@
 from the master
+aha da değiştirdim seni
